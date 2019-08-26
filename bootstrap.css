@@ -1,0 +1,41 @@
+body {
+    background-image: url("assets/images/memphis-mini.png");
+}
+.navbar {
+    height:80px;
+    background-color: #ffffff;
+}
+ .navbar-brand {
+    background-color: #4aaaa5;
+    width: 20%;
+    height: 100%;
+    /* position: absolute;
+    bottom: 0;
+    left: 10%; */
+    color: #ffffff!important;
+    font-family: font-family 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+}
+/*.navbar-nav {
+    color: #cccccc;
+    /* position: absolute;
+    bottom: 0;
+    right: 0; 
+    
+    /* margin-right: 200px; 
+    
+}
+.nav-item {
+    margin: 0 10px;
+    padding-left: 10px;
+    border-left: 2px solid #cccccc;
+    color: #cccccc;
+} */
+.btn-info{
+    background-color: #4aaaa5!important;
+}
+.page-header{
+    color: #4aaaa5;
+    border-bottom: 2px solid #dddddd;
+}
+
