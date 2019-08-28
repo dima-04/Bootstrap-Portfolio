@@ -1,9 +1,9 @@
-body {
+ body {
     background-image: url("assets/images/memphis-mini.png");
-    padding-top:80px;
+    padding-top: 80px;
 }
 
-.navbar {
+/* .navbar {
     height: 80px;
     background-color: #ffffff;
 }
@@ -30,6 +30,10 @@ body {
     padding-left: 10px;
     border-left: 2px solid #cccccc;
     color: #cccccc;
+} */
+.navbar{
+    background-color: #dddddd;
+    color: #4aaaa5;
 }
 
 .btn-info {
@@ -74,3 +78,4 @@ body {
 .row {
     margin-bottom: 5%;
 }
+
